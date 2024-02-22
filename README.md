@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour let's start coding!
 
 <!--
 **MGalka66/MGalka66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
